@@ -1,5 +1,9 @@
 # Digikraft Supportive Document
 
+## Debug APK file
+
+[Download](https://github.com/DimalPerera/Digikraft/blob/master/digikraft-debug.apk)
+
 ## Application Architecture
 MVVM
 
